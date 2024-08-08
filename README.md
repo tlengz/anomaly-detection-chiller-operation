@@ -10,6 +10,7 @@ This repository is dedicated to storing a dataset related to cooling systems, sp
   - [Definitions](#definitions)
 - [Usage](#usage)
 - [Author](#author)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -66,3 +67,7 @@ This repository is meant solely for the storage and sharing of the dataset. Ther
 ## Author
 
 This dataset was compiled and anonymized by Teo Leng. It is based on data collected during my internship, with all proprietary and sensitive information removed to ensure confidentiality.
+
+## Contact
+
+For any questions or further information, please contact me at [teolenggg@gmail.com].
